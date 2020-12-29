@@ -1,5 +1,5 @@
 # cicd-pipeline-train-schedule-jenkins
-
+trigger bild
 UPDATE README
 CHANGE
 NEW CHANGE
